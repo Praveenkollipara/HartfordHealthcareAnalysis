@@ -23,4 +23,32 @@ Key Fields:
 - Excel/CSV -- data source format
 - Microsoft Word (DOCX report generation) –- Business report on findings
 
+## Key Analyses Performed
+### Hospital Performance Analysis
+- Identified hospitals with the highest & lowest readmission rates
+- Examined how hospital discharges correlate with readmission risk
+
+### Condition-Specific Trends
+- Found Heart Failure (HF) has the worst readmission rate (23.06%)
+- Analyzed Pneumonia & Heart Attack readmission trends
+- Compared hospital performance by condition
+
+### Geographic & Financial Impact Assessment
+- Identified states where hospitals consistently exceed expected readmission rates
+- Estimated financial impact of penalties for hospitals like Hartford HealthCare
+
+### Strategic Recommendations
+- AI-driven patient risk prediction – Identify high-risk cases before discharge
+- 7-day post-discharge follow-ups – Reduce preventable readmissions
+- Better patient education & medication adherence – Improve post-discharge care
+
+## Project Outcomes
+- Identified cost-saving strategies for hospitals to minimize penalties
+- Showcased how AI-driven interventions can prevent unnecessary readmissions
+- Developed visualization to communicate insights effectively
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 
